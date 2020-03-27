@@ -3,6 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
 </p>
 
+![screenshot](https://github.com/SJellen/JsCSS/blob/master/screenshot.png)
+
 > JS and CSS variables demo for JS30.
 
 ### ✨ [Demo](https://js-css.now.sh/)
