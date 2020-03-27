@@ -1,0 +1,42 @@
+:root {
+    --base: #2d0f9c;
+    --spacing: 10px;
+    --blur: 0px;
+    --background: #1e8fe0;
+    --opacity: 1;
+    --radius: 10px;
+    --width: 600px;
+    --font: 25px;
+    --font-color: #ffffff
+  }
+
+  img {
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+    opacity: var(--opacity);
+    border-radius: var(--radius);
+    height: auto;
+    width: var(--width);
+  }
+
+ 
+
+  body {
+    text-align: center;
+    background: var(--background);
+    color: var(--font-color);
+    font-family: 'helvetica neue', sans-serif;
+    font-weight: 100;
+    font-size: var(--font);
+    
+  }
+
+  .controls {
+    width: 70%;
+    margin: 50px auto;
+  }
+
+  input {
+    width: 100px;
+  }
