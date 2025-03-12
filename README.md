@@ -7,7 +7,7 @@
 
 > JS and CSS variables demo for JS30.
 
-### ✨ [Demo](https://js-css.now.sh/)
+
 
 ## Author
 
